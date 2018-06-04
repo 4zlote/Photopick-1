@@ -22,5 +22,5 @@ Wybór lepszego zdjęcia poprzez głosowanie na Facebook’u.
 
 Jak to działa
 =========
-[](https://www.facebook.com/345730422498951/photos/a.345737405831586.1073741827.345730422498951/352822641789729/?type=3&theater)
+[](C:\Users\karol\Desktop\Obraz1.png)
 
