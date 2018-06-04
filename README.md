@@ -1,4 +1,4 @@
-
+ 
 # Spis treści
 
 * Probelem
@@ -39,14 +39,14 @@ Jesteśmy młodym, ambitnym zespołem, który sam korzysta z social mediów i ni
 
 Wyróżniki
 =========
-*Działamy szybko 
-*Jesteśmy w pełni anonimowi
-*Nasze usługi są w pełni darmowe
-*Nie musisz się nigdzie logować ani zakładać kont
-*Masz pewność, że wybrane zdjęcie jest lepsze
+* Działamy szybko 
+* Jesteśmy w pełni anonimowi
+* Nasze usługi są w pełni darmowe
+* Nie musisz się nigdzie logować ani zakładać kont
+* Masz pewność, że wybrane zdjęcie jest lepsze
 
 Kontakt
 =========
-1.Facebook: Photopick
-2.E-mail: photopickme@gmail.com
+1. Facebook: Photopick
+2. E-mail: photopickme@gmail.com
 
