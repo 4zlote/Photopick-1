@@ -9,3 +9,9 @@
 * Wyróżniki
 * Zespół
 * Kontakt
+
+Installation
+============
+Install the rk from PyPI
+------------------------
+::
