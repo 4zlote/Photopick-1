@@ -10,8 +10,7 @@
 * Zespół
 * Kontakt
 
-Installation
-============
-Install the rk from PyPI
-------------------------
-::
+Problem
+=========
+Wybór lepszego zdjęcia spośród dwóch zajmuje dużo czasu. Nie zawsze jesteśmy pewni czy wybrane zdjęcie jest na pewno lepsze. Nie wiemy czy spodoba się ono innym.
+
