@@ -26,7 +26,7 @@ Masz problem z wybraniem zdjęcia ? Nie wiesz które fajniejsze , które zbierze
 
 Rynek
 =========
-W dzisiejszych czasach bardzo modne stało się korzystanie z różnego rodzaju social mediów. Prawie każdy posiada konto typu Facebook, Snapchat czy Instagram. Modne stało się codzienne dodawanie zdjęć, zbieranie lajków i obserwujących. Wymaga to jednak sporych poświęceń. Dodawane zdjęcie nie może być nudne czy słabej jakości. Większość osób przed dodaniem nowego zdjęcia wykonuje ich kilka i ma problem z wybraniem najlepszego
+W dzisiejszych czasach bardzo modne stało się korzystanie z różnego rodzaju social mediów. Prawie każdy posiada konto typu Facebook, Snapchat czy Instagram. Modne stało się codzienne dodawanie zdjęć, zbieranie lajków i obserwujących. Wymaga to jednak sporych poświęceń. Dodawane zdjęcie nie może być nudne czy słabej jakości. Większość osób przed dodaniem nowego zdjęcia wykonuje ich kilka i ma problem z wybraniem najlepszego
 
 Konkurencja
 =========
